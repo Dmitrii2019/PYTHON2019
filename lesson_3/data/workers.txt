@@ -1,0 +1,1 @@
+{"Basiliu": 800, "Dmitry": 700, "Peter": 1000}
